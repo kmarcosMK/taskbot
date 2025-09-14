@@ -1,0 +1,1 @@
+export default function About(){return (<div className='page'><main className='container section'><h1>O TaskAI</h1><p>TaskAI to hub praktycznych porad i analiz — jak wykorzystać AI do usprawnienia zadań. Skupiamy się na realnych przykładach i instrukcjach.</p></main></div>)}

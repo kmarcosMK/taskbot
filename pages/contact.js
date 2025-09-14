@@ -1,0 +1,1 @@
+export default function Contact(){return (<div className='page'><main className='container section'><h1>Kontakt</h1><p>Napisz: kontakt@taskai.pl</p></main></div>)}

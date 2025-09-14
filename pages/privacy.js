@@ -1,0 +1,1 @@
+export default function Privacy(){return (<div className='page'><main className='container section'><h1>Polityka prywatności — skrócona</h1><p>Na obecnym etapie serwis nie zbiera danych osobowych.</p></main></div>)}
