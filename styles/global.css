@@ -64,3 +64,12 @@ footer {
 .footer-links a:hover {
   text-decoration: underline;
 }
+
+.article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
