@@ -64,12 +64,27 @@ footer {
 .footer-links a:hover {
   text-decoration: underline;
 }
-
-.article img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 20px auto;
-  border-radius: 10px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+.footer-logo {
+  height: 50px;
+  margin-bottom: 10px;
+}
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s;
+  background: #6e8efb;
+  color: white;
+}
+.btn:hover {
+  background: #a777e3;
+  transform: translateY(-2px);
+}
+.btn-primary {
+  background: #4CAF50;
+}
+.btn-primary:hover {
+  background: #45a049;
 }
