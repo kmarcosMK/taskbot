@@ -81,7 +81,7 @@ footer {
 .article-image {
   display: block;
   margin: 20px auto;
-  width: 20%;        /* obrazek zajmie np. 60% szerokości sekcji */
+  width: 50%;        /* obrazek zajmie np. 60% szerokości sekcji */
   max-width: 200px;  /* i nie więcej niż 300px */
   height: auto;
   border-radius: 12px;
