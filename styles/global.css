@@ -78,11 +78,11 @@ footer {
   text-decoration: underline;
 }
 
-.article-image {
+..article-image {
   display: block;
   margin: 20px auto;
-  max-width: 400px;   /* kontrola szerokości */
-  width: 100%;        /* responsywne dopasowanie */
+  width: 60%;        /* obrazek zajmie np. 60% szerokości sekcji */
+  max-width: 300px;  /* i nie więcej niż 300px */
   height: auto;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
