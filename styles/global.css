@@ -78,7 +78,7 @@ footer {
   text-decoration: underline;
 }
 
-..article-image {
+.article-image {
   display: block;
   margin: 20px auto;
   width: 20%;        /* obrazek zajmie np. 60% szerokości sekcji */
